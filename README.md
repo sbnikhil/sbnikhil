@@ -68,23 +68,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sbnikhil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbnikhil&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sbnikhil&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ### 📫 Let's Connect
 
 I'm open to **full-time roles**, **research collabs**, and **cool side projects** in AI/ML, Data Science, and AI Security. Let's build something!
