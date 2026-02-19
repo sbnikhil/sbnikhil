@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MS+Data+Science+%40+UW-Madison+🎓;LLM+Engineer+%7C+MLOps+%7C+Medical+AI;Building+secure%2C+production-grade+AI+systems;Open+to+full-time+roles+from+May+2026+🚀)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sbnikhil&color=58A6FF&style=flat-square)](https://github.com/sbnikhil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilbsunkara)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nikhilbsunkara@gmail.com)
 
