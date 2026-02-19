@@ -1,6 +1,5 @@
 ### Hey there! I'm Nikhil 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sbnikhil&color=blue)](https://github.com/sbnikhil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilbsunkara)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nikhilbsunkara@gmail.com)
 
