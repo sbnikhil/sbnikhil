@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nikhil%20Sunkara&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20ML%20%7C%20Data%20Science&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bhaskar%20Nikhil%20Sunkara&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20ML%20%7C%20Data%20Science&descAlignY=55&descSize=18"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MS+Data+Science+%40+UW-Madison+🎓;LLM+Engineer+%7C+MLOps+%7C+Medical+AI;Building+secure%2C+production-grade+AI+systems;Open+to+full-time+roles+from+May+2026+🚀)](https://git.io/typing-svg)
 
