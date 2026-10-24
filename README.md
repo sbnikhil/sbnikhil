@@ -21,7 +21,7 @@
 🎸 &nbsp; When I'm not at a keyboard, I'm playing music, hitting the gym, gaming, or out somewhere new.\
 💬 &nbsp; Always down to talk AI, collaborate on cool projects, or just geek out — reach out anytime!\
 ✉️ &nbsp; Best way to reach me: [nikhilbsunkara@gmail.com](mailto:nikhilbsunkara@gmail.com)\
-📄 &nbsp; More about my work on [LinkedIn](https://linkedin.com/in/nikhilbsunkara)
+
 
 ---
 
